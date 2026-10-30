@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SportsStore.Domain/SportsStore.Domain.csproj" Id="de94d22f-b16b-47e6-a0fa-7e4b655288f0" />
+  <Project Path="SportsStore.UnitTests/SportsStore.UnitTests.csproj" Id="b5036d46-22b7-42e3-8f53-68b86df37bdf" />
+  <Project Path="SportsStore.WebUI/SportsStore.WebUI.csproj" Id="cc73f2db-e8f3-46c8-a9ad-f24b4bad55bd" />
+</Solution>
